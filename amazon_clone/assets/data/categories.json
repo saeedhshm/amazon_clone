@@ -1,0 +1,63 @@
+[
+  {
+    "id": "electronics",
+    "name": "Electronics",
+    "imageUrl": "https://m.media-amazon.com/images/I/71bhWgQK-cL._AC_UL320_.jpg",
+    "description": "Phones, TVs, laptops, cameras, and more"
+  },
+  {
+    "id": "computers",
+    "name": "Computers",
+    "imageUrl": "https://m.media-amazon.com/images/G/42/Egypt-hq/2025/img/Consumer_Electronics/XCM_CUTTLE_2177854_6569847_420x420_en_AE._CB790789115_.jpg",
+    "description": "Desktops, laptops, tablets, and accessories"
+  },
+  {
+    "id": "smart_home",
+    "name": "Smart Home",
+    "imageUrl": "https://m.media-amazon.com/images/I/617J9n4Ux6L._AC_SX679_.jpg",
+    "description": "Smart speakers, displays, and devices"
+  },
+  {
+    "id": "books",
+    "name": "Books & Kindle",
+    "imageUrl": "https://m.media-amazon.com/images/I/71c1LRLBTBL._AC_UL320_.jpg",
+    "description": "Books, e-readers, and accessories"
+  },
+  {
+    "id": "home_kitchen",
+    "name": "Home & Kitchen",
+    "imageUrl": "https://m.media-amazon.com/images/I/71WtwEvYDOS._AC_UL320_.jpg",
+    "description": "Furniture, kitchen appliances, and home decor"
+  },
+  {
+    "id": "sports",
+    "name": "Sports & Outdoors",
+    "imageUrl": "https://m.media-amazon.com/images/I/61OYl6jafpL._AC_SX679_.jpg",
+    "description": "Athletic wear, equipment, and outdoor gear"
+  },
+  {
+    "id": "toys",
+    "name": "Toys & Games",
+    "imageUrl": "https://m.media-amazon.com/images/I/61W3yu9wAcL._AC_UL640_FMwebp_QL65_.jpg",
+    "description": "Toys, games, and collectibles"
+  },
+  {
+    "id": "fashion",
+    "name": "Fashion",
+    "imageUrl": "https://m.media-amazon.com/images/I/71czu7WgGuL._AC_UL320_.jpg",
+    "description": "Clothing, shoes, jewelry, and watches"
+  },
+  {
+    "id": "beauty",
+    "name": "Beauty & Personal Care",
+    "imageUrl": "https://m.media-amazon.com/images/I/71BzaiYYOuL._AC_UL640_QL65_.jpg",
+    "description": "Makeup, skincare, haircare, and fragrances"
+  },
+  {
+    "id": "grocery",
+    "name": "Grocery",
+    "imageUrl": "https://m.media-amazon.com/images/I/61h7X5R-JuL._AC_UL640_FMwebp_QL65_.jpg",
+    "description": "Food, beverages, and household essentials"
+  }
+]
+

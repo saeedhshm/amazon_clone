@@ -1,0 +1,19 @@
+[
+  {
+    "id": "mock-user-id",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phoneNumber": "+1234567890",
+    "profileImageUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+    "addresses": [
+      "123 Main St, Apt 4B, New York, NY 10001",
+      "456 Park Ave, Suite 201, San Francisco, CA 94107"
+    ],
+    "paymentMethods": [
+      "Visa ending in 4242",
+      "Mastercard ending in 5555"
+    ],
+    "isPrime": true
+  }
+]
+
